@@ -1,0 +1,7 @@
+{
+  "name": "diesel",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "author": "zehan12",
+  "license": "MIT"
+}
